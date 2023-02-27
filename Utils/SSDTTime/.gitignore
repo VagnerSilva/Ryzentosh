@@ -107,4 +107,6 @@ Results/*
 iasl*
 acpidump*
 
+EFI/Microsoft/*
+
 .vs
